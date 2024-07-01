@@ -1,1 +1,0 @@
-export const DATABASE_URL = 'mongodb+srv://123haeun:infinite77@todo-api.yhcz402.mongodb.net/todo-api?retryWrites=true&w=majority&appName=todo-api';
