@@ -1,6 +1,5 @@
 import express from 'express';
 import mongoose from 'mongoose';
-import { DATABASE_URL } from './env.js';
 import Task from './models/Task.js';
 
 import cors from 'cors';
